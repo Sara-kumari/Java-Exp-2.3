@@ -1,3 +1,4 @@
+// problem b----------------------------------Filtering and Sorting Students Using Streams Part-------------------
 import java.util.*;
 import java.util.stream.*;
 
@@ -38,3 +39,4 @@ public class ProductStreamOps {
         System.out.println("\nAverage price: " + avgPrice);
     }
 }
+
